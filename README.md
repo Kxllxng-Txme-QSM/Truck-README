@@ -17,7 +17,13 @@ The JEM Truck&Track is exactly what it sounds like. A 3D designed and printed tr
 REQUIREMENTS
 ------------
 
-
+1 Servo Motor
+1 D.C Motor
+3D Printer
+Python
+Windows PowerShell
+Tape
+Pom Pom Strings
 
 COMPLETE CODE
 ------------
@@ -47,6 +53,7 @@ try:
 except KeyboardInterrupt:
         p.stop()
         GPIO.cleanup()
+
 Downloads Available
 ------------
 - Truck Body [Body for the Truck]
