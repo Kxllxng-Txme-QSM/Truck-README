@@ -47,3 +47,11 @@ try:
 except KeyboardInterrupt:
         p.stop()
         GPIO.cleanup()
+Downloads Available
+------------
+- Truck Body [Body for the Truck]
+- Truck Wheel (Print 4) [The Wheels]
+- Connector [To Connect The Back Wheels]
+- Car Wash Body [Main Frame of The Car Wash]
+- Car Wash Rod [Rod That Connects The Car Wash to The Servo Motor]
+- Track [The Road For The Truck]
