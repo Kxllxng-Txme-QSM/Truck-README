@@ -14,16 +14,41 @@ INTRODUCTION
 
 The JEM Truck&Track is exactly what it sounds like. A 3D designed and printed truck, track, and car wash. Everything was coded using PowerShell ad RaspberryPi, 
 
-REQUIREMENTS
+MATERIALS/APPLICATIONS/APPLIANCES
 ------------
 
 1 Servo Motor
 1 D.C Motor
-3D Printer
+1 Raspberry Pi
+2 9V Batteries
+1 3D Printer
+A form of adhesive (e.g. Hot glue gun, tape)
 Python
 Windows PowerShell
-Tape
-Pom Pom Strings
+1m Thin ribbon
+
+3D PRINTING INSTRUCTIONS
+------------
+
+TRACK: 18 pieces needed. Pieces slide fit together to form a circular track. A cheaper alternative is to use 9 pieces to form a semicircle.
+
+WHEEL: 4 pieces needed. 2 pieces move the truck by connecting to the D.C Motor and the remaining 2 support the truck's rear.
+
+CONNECTOR: 1 piece needed. Connects the 2 wheels at the truck's rear.
+
+TRUCK: 1 piece needed. Contains the Raspberry Pi, batteries and D.C Motor and moves along the track.
+
+CAR WASH: 1 piece needed. An archway for the truck to move through along the track.
+
+CAR WASH ROOF BRUSH: 1 piece needed. Connects to the Servo Motor and sits above the car wash, rotating to brush the top of the truck.
+
+
+ASSEMBLY INSTRUCTIONS
+------------
+
+
+
+
 
 COMPLETE CODE
 ------------
