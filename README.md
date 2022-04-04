@@ -46,12 +46,15 @@ CAR WASH ROOF BRUSH: 1 piece needed. Connects to the Servo Motor and sits above 
 ASSEMBLY INSTRUCTIONS
 ------------
 Track piece:
+
 ![Track](Track.png)
 
 Wheel on track:
+
 ![Wheel on track](Wheel_on_track.png)
 
 Wheels with connector:
+
 ![Wheels with connector](Wheels_with_connector.png)
 
 
