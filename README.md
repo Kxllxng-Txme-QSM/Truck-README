@@ -18,7 +18,7 @@ MATERIALS/APPLICATIONS/APPLIANCES
 ------------
 
 1 Servo Motor
-1 D.C Motor
+ <p> 1 D.C Motor </p>
 1 Raspberry Pi
 2 9V Batteries
 1 3D Printer
