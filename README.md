@@ -3,11 +3,12 @@
 CONTENTS OF THIS FILE
 ---------------------
 
- * Introduction
- * Requirements
- * Complete Code
- * Configuration
- * Maintainers
+ * INTRODUCTION
+ * MATERIALS/APPLICATIONS/APPLIANCES
+ * COMPLETE CODE
+ * 3D PRINTING INSTRUCTIONS
+ * 3D PIECES
+ * COMPLETE CODE
  
 INTRODUCTION
 ------------
@@ -43,7 +44,7 @@ CAR WASH: 1 piece needed. An archway for the truck to move through along the tra
 CAR WASH ROOF BRUSH: 1 piece needed. Connects to the Servo Motor and sits above the car wash, rotating to brush the top of the truck.
 
 
-ASSEMBLY INSTRUCTIONS
+3D PIECES
 ------------
 Track piece:
 
