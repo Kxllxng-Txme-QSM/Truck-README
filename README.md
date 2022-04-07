@@ -18,14 +18,14 @@ MATERIALS/APPLICATIONS/APPLIANCES
 ------------
 
 1 Servo Motor
- <p> 1 D.C Motor </p>
-1 Raspberry Pi
-2 9V Batteries
-1 3D Printer
-A form of adhesive (e.g. Hot glue gun, tape)
-Python
-Windows PowerShell
-1m Thin ribbon
+<p> 1 D.C Motor </p>
+<p> 1 Raspberry Pi </p>
+<p> 2 9V Batteries </p>
+<p> 1 3D Printer </p>
+<p> A form of adhesive (e.g. Hot glue gun, tape) </p>
+<p> Python </p>
+<p> Windows PowerShell </p>
+<p> 1m Thin ribbon </p>
 
 3D PRINTING INSTRUCTIONS
 ------------
