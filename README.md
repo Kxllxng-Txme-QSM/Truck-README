@@ -12,12 +12,12 @@ CONTENTS OF THIS FILE
 INTRODUCTION
 ------------
 
-The JEM Truck&Track is exactly what it sounds like. A 3D designed and printed truck, track, and car wash. Everything was coded using PowerShell ad RaspberryPi, 
+The JEM Truck&Track is exactly what it sounds like. A 3D designed and printed truck, track, and car wash. Everything was coded using PowerShell and a RaspberryPi. The majority of our project is 3d printed, with one multi-media aspect. The multi-media aspect is a few thin ribbons. The ribbons act as the part of the car wash that washes the car, powered by a Servo motor.
 
 MATERIALS/APPLICATIONS/APPLIANCES
 ------------
 
-1 Servo Motor
+<p> 1 Servo Motor </p>
 <p> 1 D.C Motor </p>
 <p> 1 Raspberry Pi </p>
 <p> 2 9V Batteries </p>
