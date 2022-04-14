@@ -72,25 +72,25 @@ import explorerhat as eh
 import time
 print('Time to make your truck move')
 
-eh.motor.one.forward(100)
-time.sleep(3)
-eh.motor.one.backward(80)
-time.sleep(3)
-eh.motor.one.forward(50)
-time.sleep(3)
-eh.motor.one.backward(65)
-time.sleep(3)
-eh.motor.one.forward(100)
-time.sleep(3)
-eh.motor.one.backward(80)
-time.sleep(3)
-eh.motor.one.forward(50)
-time.sleep(3)
-eh.motor.one.backward(65)
-time.sleep(3)
-eh.motor.one.forward(100)
-time.sleep(3)
-eh.motor.one.stop()
+<p> eh.motor.one.forward(100) </p>
+<p> time.sleep(3) </p>
+<p> eh.motor.one.backward(80) </p>
+<p> time.sleep(3) </p>
+<p> eh.motor.one.forward(50) </p>
+<p> time.sleep(3) </p>
+<p> eh.motor.one.backward(65) </p>
+<p> time.sleep(3) </p>
+<p> eh.motor.one.forward(100) </p>
+<p> time.sleep(3) </p>
+<p> eh.motor.one.backward(80) </p>
+<p> time.sleep(3) </p>
+<p> eh.motor.one.forward(50) </p>
+<p> time.sleep(3) </p>
+<p> eh.motor.one.backward(65) </p>
+<p> time.sleep(3) </p>
+<p> eh.motor.one.forward(100) </p>
+<p> time.sleep(3) </p>
+<p> eh.motor.one.stop() </p>
 
 - Car Wash: -
 
