@@ -68,6 +68,30 @@ COMPLETE CODE
 
 - Truck: -
 
+import explorerhat as eh
+import time
+print('Time to make your truck move')
+
+eh.motor.one.forward(100)
+time.sleep(3)
+eh.motor.one.backward(80)
+time.sleep(3)
+eh.motor.one.forward(50)
+time.sleep(3)
+eh.motor.one.backward(65)
+time.sleep(3)
+eh.motor.one.forward(100)
+time.sleep(3)
+eh.motor.one.backward(80)
+time.sleep(3)
+eh.motor.one.forward(50)
+time.sleep(3)
+eh.motor.one.backward(65)
+time.sleep(3)
+eh.motor.one.forward(100)
+time.sleep(3)
+eh.motor.one.stop()
+
 - Car Wash: -
 
 import RPi.GPIO as GPIO
